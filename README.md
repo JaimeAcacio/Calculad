@@ -1,2 +1,2 @@
-# https://jaimeacacio.github.io/Calculad/.
+# https://Calculad.github.io/
 Meu primeiro projeto usando Html,Css e JavaScript
